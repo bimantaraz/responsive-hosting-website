@@ -2,7 +2,7 @@
  
  Responsive Hosting Website Using HTML, CSS & JavaScript
 
-[Demo](https://uhost.anugrahbimantara.my.id/index-7.html)
+[Demo](https://uhost.anugrahbimantara.my.id/index.html)
 
 
 ![Screenshot (46)](https://user-images.githubusercontent.com/90950617/206725048-18a7c035-d2d4-4da0-bd92-8e3089ce91af.png)
